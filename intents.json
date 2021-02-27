@@ -1,12 +1,12 @@
 {"intents": [
     {
         "tag": "greetings",
-        "patterns": ["Oi", "Olá", "Hey", "Eai", "Eae", "Como vai?", "Tudo bem?"],
-        "responses": ["Oi!", "Olá!", "Hey!", "Eai, tudo bem", "Eae, tudo bem", "Como posso ajudar?"]
+        "patterns": ["Oi", "Ola", "Hey", "Eai", "Eae", "Como vai?", "Tudo bem?"],
+        "responses": ["Oi!", "Ola!", "Hey!", "Eai, tudo bem", "Eae, tudo bem", "Como posso ajudar?"]
     },
     {
         "tag": "goodBye",
-        "patterns": ["Tchau", "Até mais", "Até logo", "Tenha um otimo dia", "Até"],
+        "patterns": ["Tchau", "Ate mais", "Ate logo", "Tenha um otimo dia", "Ate"],
         "responses": ["Foi bom te conhecer!", "Até mais!", "Se vemos por ai", "Até outra hora"]
     },
     {
@@ -17,7 +17,7 @@
     {
         "tag": "name",
         "patterns": ["Qual o seu nome?", "Como se chama?", "Como você se chama?", "Nome?"],
-        "responses": ["Meu nome é...", "Pode me chamar de...!"]
+        "responses": ["Meu nome e...", "Pode me chamar de...!"]
     },
     {
         "tag": "address",
