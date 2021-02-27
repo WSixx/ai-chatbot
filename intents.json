@@ -1,0 +1,27 @@
+{"intents": [
+    {
+        "tag": "greetings",
+        "patterns": ["Oi", "Olá", "Hey", "Eai", "Eae", "Como vai?", "Tudo bem?"],
+        "responses": ["Oi!", "Olá!", "Hey!", "Eai, tudo bem", "Eae, tudo bem", "Como posso ajudar?"]
+    },
+    {
+        "tag": "goodBye",
+        "patterns": ["Tchau", "Até mais", "Até logo", "Tenha um otimo dia", "Até"],
+        "responses": ["Foi bom te conhecer!", "Até mais!", "Se vemos por ai", "Até outra hora"]
+    },
+    {
+        "tag": "age",
+        "patterns": ["Quantos anos", "Sua idade", "Qual sua idade", "Você tem quantos anos?"],
+        "responses": ["Meu criador tem 24 anos", "24 naos!!"]
+    },
+    {
+        "tag": "name",
+        "patterns": ["Qual o seu nome?", "Como se chama?", "Como você se chama?", "Nome?"],
+        "responses": ["Meu nome é...", "Pode me chamar de...!"]
+    },
+    {
+        "tag": "address",
+        "patterns": ["Qual seu endereco?", "Endereço", "Onde encontrar vocês?", "Onde ficam?"],
+        "responses": ["Nós estamos na rua......!"]
+    }
+]}
